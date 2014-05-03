@@ -1,6 +1,6 @@
 {
   "name": "urouter",
-  "version": "0.0.15",
+  "version": "0.0.1",
   "description": "Router for Express with usable bridges and helpers for named routes",
   "main": "lib/urouter.js",
   "repository": {
@@ -13,5 +13,6 @@
     "routing"
   ],
   "author": "Alexander Pezikov",
-  "license": "BSD"
+  "license": "BSD",
+  "readmeFilename": "README.md"
 }
