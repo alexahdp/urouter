@@ -1,6 +1,6 @@
 {
   "name": "urouter",
-  "version": "0.0.101",
+  "version": "0.0.102",
   "description": "Router for Express with usable bridges and helpers for named routes",
   "main": "lib/urouter.js",
   "repository": {
