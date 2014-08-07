@@ -27,4 +27,8 @@ Example usage:
                 });
             });
         });
-    })();
+    },
+    function(err) {
+        console.log('Error', err);
+    }
+    )();
